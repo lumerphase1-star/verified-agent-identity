@@ -3,7 +3,7 @@ name: Verify Human Identity
 on:
   workflow_dispatch:
     inputs:
-      agent_name:
+      agent_name: 'lumerphase'
         description: 'lumerphase1'
         required: true
         default: 'lumerphase1'
