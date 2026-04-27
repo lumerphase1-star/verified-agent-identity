@@ -7,7 +7,7 @@ on:
         description: 'lumerphase1'
         required: true
         default: 'lumerphase1'
-      agent_description:
+      agent_description: 'lumerphase1'
         description: 'lumerphase1'
         required: true
         default: 'lumerphase1 AI Agent'
